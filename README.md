@@ -43,7 +43,9 @@ ________________________________________________________________________________
 ___________________________________________________________________________________
 
 
-🤔 I’m looking for help with 
+#### 🤔 What am I currently doing:
+- I am currently on a course by TCS and IBM called QUBIT, which explores more upon quantum computers.
+- I am also working on an application called summrize *(kinda stale atm)*
 
 💬 Ask me about
 
