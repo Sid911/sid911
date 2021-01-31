@@ -41,6 +41,8 @@ ________________________________________________________________________________
 [<img align="left" alt="Android Studio" width="30px" src="https://developer.android.com/studio/images/studio-icon-preview.svg" />][androidstudio]
 [<img align="left" alt="Visual Studio" width="30px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />][androidstudio]
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />][vscode]
+[<img align="left" alt="Pycharm" width="30px" src="https://dl2.macupdate.com/images/icons256/53507.png?d=1528111692" />][pycharm]
+[<img align="left" alt="Adobe Creative Cloud" width="50px" src="https://www.adobe.com/content/dam/acom/en/products/creativecloud/business/enterprise/2018/solution/cce.overview.%20logo.buying-programs-cc.400x295.png" />][adobe] <-😉
 <br/>
 <br/>
 ___________________________________________________________________________________
@@ -75,5 +77,7 @@ I love sports and games and like rural area than urban. I don't think I have to 
 [node.js]: https://nodejs.org/en/
 [csharp]: https://docs.microsoft.com/en-us/dotnet/csharp/
 
+[pycharm]: https://www.jetbrains.com/pycharm/
+[adobe]: https://www.adobe.com/in/creativecloud.html?promoid=NGWGRLB2&mv=other
 [vscode]: https://code.visualstudio.com/
 [androidstudio]: https://developer.android.com/studio/install
