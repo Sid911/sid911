@@ -21,6 +21,7 @@ All these years I have tried very much to make languages and frameworks as a too
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][scss]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
 [<img align="left" alt="Tensorflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg" />][tensorflow]
+[<img align="left" alt="Flutter" width="26px" src="https://aglowiditsolutions-6lohnuosd1nx.netdna-ssl.com/wp-content/uploads/2020/07/Flutter-logo.png" />][flutter]
 <br/>
 <br/>
 
@@ -42,6 +43,7 @@ ________________________________________________________________________________
 [<img align="left" alt="Visual Studio" width="30px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />][androidstudio]
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />][vscode]
 [<img align="left" alt="Pycharm" width="30px" src="https://dl2.macupdate.com/images/icons256/53507.png?d=1528111692" />][pycharm]
+[<img align="left" alt="Blender" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/939px-Blender_logo_no_text.svg.png" />][blender]
 [<img align="left" alt="Adobe Creative Cloud" width="50px" src="https://www.adobe.com/content/dam/acom/en/products/creativecloud/business/enterprise/2018/solution/cce.overview.%20logo.buying-programs-cc.400x295.png" />][adobe]😉
 <br/>
 <br/>
@@ -50,8 +52,8 @@ ________________________________________________________________________________
 
 #### 🤔 What am I currently doing:
 - I am currently on a course by TCS and IBM called QUBIT, which explores more upon quantum computers.
-- I am also working on an application called summrize *(kinda stale atm)*
-- Building a x16 bit CPU emulation 
+- I am also working on an application called Summarize 
+- Building a x16 bit CPU emulation *(kinda stale atm)*
 - Fighting for college ! 👊🏻
 
 #### 💬 Ask me about
@@ -72,6 +74,8 @@ I love sports and games and like rural area than urban. I don't think I have to 
 [scss]: https://sass-lang.com/
 [js]: https://developer.mozilla.org/en-US/docs/Web/javascript
 
+
+[flutter]: https://flutter.dev/
 [tensorflow]: https://www.tensorflow.org/
 [rust]: https://www.rust-lang.org/
 [node.js]: https://nodejs.org/en/
@@ -81,3 +85,4 @@ I love sports and games and like rural area than urban. I don't think I have to 
 [adobe]: https://www.adobe.com/in/creativecloud.html?promoid=NGWGRLB2&mv=other
 [vscode]: https://code.visualstudio.com/
 [androidstudio]: https://developer.android.com/studio/install
+[blender]: https://blender.org
