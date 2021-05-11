@@ -46,6 +46,9 @@ ________________________________________________________________________________
 [<img align="left" alt="Visual Studio" width="30px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />][androidstudio]
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />][vscode]
 [<img align="left" alt="Pycharm" width="30px" src="https://dl2.macupdate.com/images/icons256/53507.png?d=1528111692" />][pycharm]
+<br/>
+<br/>
+[<img align="left" alt="Figma" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" />][figma]
 [<img align="left" alt="Blender" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/939px-Blender_logo_no_text.svg.png" />][blender]
 [<img align="left" alt="Adobe Creative Cloud" width="50px" src="https://www.adobe.com/content/dam/acom/en/products/creativecloud/business/enterprise/2018/solution/cce.overview.%20logo.buying-programs-cc.400x295.png" />][adobe]😉
 <br/>
@@ -91,3 +94,4 @@ I love sports and games and like rural area than urban. I don't think I have to 
 [vscode]: https://code.visualstudio.com/
 [androidstudio]: https://developer.android.com/studio/install
 [blender]: https://blender.org
+[figma]: https://www.figma.com/
