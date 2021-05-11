@@ -19,9 +19,12 @@ All these years I have tried very much to make languages and frameworks as a too
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][scss]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
-[<img align="left" alt="Tensorflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg" />][tensorflow]
-[<img align="left" alt="Flutter" width="26px" src="https://aglowiditsolutions-6lohnuosd1nx.netdna-ssl.com/wp-content/uploads/2020/07/Flutter-logo.png" />][flutter]
+[<img align="left" alt="JavaScript" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
+[<img align="left" alt="Firebase" width="20px" src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png" />][firebase]
+[<img align="left" alt="Google Cloud" width="26px" src="https://clipartart.com/images/google-cloud-logo-clipart.png" />][gcloud]
+
+[<img align="left" alt="Tensorflow" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg" />][tensorflow]
+[<img align="left" alt="Flutter" width="24px" src="https://aglowiditsolutions-6lohnuosd1nx.netdna-ssl.com/wp-content/uploads/2020/07/Flutter-logo.png" />][flutter]
 <br/>
 <br/>
 
@@ -73,6 +76,8 @@ I love sports and games and like rural area than urban. I don't think I have to 
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [scss]: https://sass-lang.com/
 [js]: https://developer.mozilla.org/en-US/docs/Web/javascript
+[firebase]: https://firebase.google.com/
+[gcloud]: https://cloud.google.com/
 
 
 [flutter]: https://flutter.dev/
