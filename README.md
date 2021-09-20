@@ -1,15 +1,15 @@
-# Hello there Someone! 
-### *Who stumbled upon my measly profile* 👋
-
+## Hello there Fellow Panda! 
+*Who stumbled upon my measly profile* 👋 
 <br/>
-
-### About me 🐼
 
 ______________________________________________________________________________________
 
 ### Languages and frameworks I have worked on :
+<div>
+  <img width=200 align="right" src="https://user-images.githubusercontent.com/27860105/134004335-9c5b3b3b-4c8c-40c6-ae16-4c192ebb48a1.gif"/>
+All these (kinda short 🐼 and lazy) years, I have used many different languages and frameworks/stacks on a project by project basis to build a few things with my passion, I still a consider comfort zone but I ain't giving up any challenge on learning in anything new.
 
-All these years I have tried very much to make languages and frameworks as a tool to make something switch and adapt quickly project by project basis, I still consider comfort zone but I ain't giving up any challenge on learning in anything new.
+</div>
 
 #### Had a good amount of experience with - 
 [<img align="left" alt="Nvidia Cuda" width="30px" src="https://migocpp.files.wordpress.com/2018/03/badge-nvidia-cuda-cpp.png" />][Cuda]
@@ -28,7 +28,6 @@ All these years I have tried very much to make languages and frameworks as a too
 <br/>
 <br/>
 
-____________________________________________________________________________________
 
 #### Kinda tinkering with or less dived into(not as proficient with 🌱)-
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node.js]
@@ -38,7 +37,6 @@ ________________________________________________________________________________
 <br/>
 <br/>
 
-___________________________________________________________________________________
 
 ### Tools I actively use - 
 
@@ -46,30 +44,40 @@ ________________________________________________________________________________
 [<img align="left" alt="Visual Studio" width="30px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />][androidstudio]
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />][vscode]
 [<img align="left" alt="Pycharm" width="30px" src="https://dl2.macupdate.com/images/icons256/53507.png?d=1528111692" />][pycharm]
-<br/>
-<br/>
 [<img align="left" alt="Figma" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" />][figma]
 [<img align="left" alt="Blender" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/939px-Blender_logo_no_text.svg.png" />][blender]
-[<img align="left" alt="Adobe Creative Cloud" width="50px" src="https://www.adobe.com/content/dam/acom/en/products/creativecloud/business/enterprise/2018/solution/cce.overview.%20logo.buying-programs-cc.400x295.png" />][adobe]😉
+[<img align="left" alt="Adobe Creative Cloud" width="50px" src="https://www.adobe.com/content/dam/acom/en/products/creativecloud/business/enterprise/2018/solution/cce.overview.%20logo.buying-programs-cc.400x295.png" />][adobe]
 <br/>
 <br/>
 ___________________________________________________________________________________
 
 
 #### 🤔 What am I currently doing:
-- I am currently on a course by TCS and IBM called QUBIT, which explores more upon quantum computers.
-- I am also working on an application called Summarize 
+
+- <div> 
+  <img align="right" width=100 src ="https://user-images.githubusercontent.com/27860105/134005079-dfe6a614-49a7-4b32-9169-f3e187428416.png"/>
+  I am also working on an application called <strong>Summarize</strong> (Name explains what it does probably well) 
+  </div>
+ 
 - Building a x16 bit CPU emulation *(kinda stale atm)*
 - Fighting for college ! 👊🏻
 
 #### 💬 Ask me about
- Space, Science, Physics, Weapons, 😋 little bit of CS
+ Space, Science, Physics, little bit of CS obviously
 
 📫 How to reach me:
+```cpp
+// I do sometimes write buggy code here is one
 
+std::string email = "siddharthsinha9752@gmail.com";
+std::string twitter = "@Sid_s911";
+std::string medium = 'https://medium.com/@siddharthsinha9752' // soon, one day I will beat William Shakespeare at blogging
+
+```
 
 #### ⚡ Fun fact
 I love sports and games and like rural area than urban. I don't think I have to mention that I love pandas💙💖!
+Oh yeah anime! How dare I forget that. 
 
 [Cuda]: https://docs.nvidia.com/cuda/
 [cplusplus]: https://docs.microsoft.com/en-us/cpp/?view=msvc-160
