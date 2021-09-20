@@ -27,7 +27,7 @@ All these (kinda short 🐼 and lazy) years, I have used many different language
 [<img align="left" alt="Flutter" width="24px" src="https://aglowiditsolutions-6lohnuosd1nx.netdna-ssl.com/wp-content/uploads/2020/07/Flutter-logo.png" />][flutter]
 <br/>
 <br/>
-
+<br/>
 
 #### Kinda tinkering with or less dived into(not as proficient with 🌱)-
 
@@ -48,8 +48,10 @@ All these (kinda short 🐼 and lazy) years, I have used many different language
 [<img align="left" alt="Figma" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" />][figma]
 [<img align="left" alt="Blender" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/939px-Blender_logo_no_text.svg.png" />][blender]
 [<img align="left" alt="Adobe Creative Cloud" width="50px" src="https://www.adobe.com/content/dam/acom/en/products/creativecloud/business/enterprise/2018/solution/cce.overview.%20logo.buying-programs-cc.400x295.png" />][adobe]
+
 <br/>
 <br/>
+
 ___________________________________________________________________________________
 
 
