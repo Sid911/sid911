@@ -7,9 +7,11 @@ ________________________________________________________________________________
 ### Languages and frameworks I have worked on :
 <div>
   <img width=200 align="right" src="https://user-images.githubusercontent.com/27860105/134004335-9c5b3b3b-4c8c-40c6-ae16-4c192ebb48a1.gif"/>
-All these (kinda short 🐼 and lazy) years, I have used many different languages and frameworks/stacks on a project by project basis to build a few things with my passion, I still a consider comfort zone but I ain't giving up any challenge on learning in anything new.
-
+All these (kinda short 🐼 and lazy) years, I have used many different languages and frameworks/stacks on a project by project basis to build a few things with my passion, I still a consider comfort zone but I ain't giving up any challenge on learning in anything new. You can call me a <strong>Wanderer</strong> for now, but I don't plan on doing it for eternity. But I always remember this quote
 </div>
+<br/>
+
+> "If you only do what you can do, you will never be more than you are now." - **Master oogway** 🐢 *(Kung Fu Panda)*
 
 #### Had a good amount of experience with - 
 [<img align="left" alt="Nvidia Cuda" width="30px" src="https://migocpp.files.wordpress.com/2018/03/badge-nvidia-cuda-cpp.png" />][Cuda]
@@ -40,11 +42,14 @@ All these (kinda short 🐼 and lazy) years, I have used many different language
 <br/>
 
 ### Tools I actively use - 
+> I am not including git and related stuff 😉 obviously
 
 [<img align="left" alt="Android Studio" width="30px" src="https://developer.android.com/studio/images/studio-icon-preview.svg" />][androidstudio]
 [<img align="left" alt="Visual Studio" width="30px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />][androidstudio]
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />][vscode]
 [<img align="left" alt="Pycharm" width="30px" src="https://dl2.macupdate.com/images/icons256/53507.png?d=1528111692" />][pycharm]
+[<img align="left" alt="Cmake" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg"/>][cmake]
+
 [<img align="left" alt="Figma" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" />][figma]
 [<img align="left" alt="Blender" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/939px-Blender_logo_no_text.svg.png" />][blender]
 [<img align="left" alt="Adobe Creative Cloud" width="50px" src="https://www.adobe.com/content/dam/acom/en/products/creativecloud/business/enterprise/2018/solution/cce.overview.%20logo.buying-programs-cc.400x295.png" />][adobe]
@@ -66,7 +71,8 @@ ________________________________________________________________________________
 - Fighting for college ! 👊🏻
 
 #### 💬 Ask me about
- Space, Science, Physics, little bit of CS obviously
+ Space, Science, Physics, little bit of CS obviously. 
+ > NOTE : Politics = No entry zone ⛔
 
 📫 How to reach me:
 ```cpp
@@ -101,6 +107,7 @@ Oh yeah anime! How dare I forget that.
 [csharp]: https://docs.microsoft.com/en-us/dotnet/csharp/
 
 [pycharm]: https://www.jetbrains.com/pycharm/
+[cmake]: https://cmake.org/
 [adobe]: https://www.adobe.com/in/creativecloud.html?promoid=NGWGRLB2&mv=other
 [vscode]: https://code.visualstudio.com/
 [androidstudio]: https://developer.android.com/studio/install
