@@ -7,7 +7,7 @@ ________________________________________________________________________________
 ### Languages and frameworks I have worked on :
 <div>
   <img width=200 align="right" src="https://user-images.githubusercontent.com/27860105/134004335-9c5b3b3b-4c8c-40c6-ae16-4c192ebb48a1.gif"/>
-All these (kinda short 🐼 and lazy) years, I have used many different languages and frameworks/stacks on a project by project basis to build a few things with my passion, I still a consider comfort zone but I ain't giving up any challenge on learning in anything new. You can call me a <strong>Wanderer</strong> for now, but I don't plan on doing it for eternity. But I always remember this quote
+All these (kinda short 🐼 and lazy) years, I have used many different languages and frameworks/stacks on a project by project basis to build a few things with my passion (might not be the best at them), I still a consider comfort zone but I ain't giving up any challenge when it comes to learning anything new. You can call me a <strong>Wanderer</strong> for now, but I don't plan on doing it for eternity. But I always remember this quote
 </div>
 <br/>
 
