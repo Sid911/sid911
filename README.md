@@ -26,7 +26,7 @@ All these (kinda short 🐼 and lazy) years, I have used many different language
 [<img align="left" alt="Google Cloud" width="26px" src="https://clipartart.com/images/google-cloud-logo-clipart.png" />][gcloud]
 
 [<img align="left" alt="Tensorflow" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg" />][tensorflow]
-[<img align="left" alt="Flutter" width="24px" src="https://aglowiditsolutions-6lohnuosd1nx.netdna-ssl.com/wp-content/uploads/2020/07/Flutter-logo.png" />][flutter]
+[<img align="left" alt="Flutter" width="30px" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" />][flutter]
 <br/>
 <br/>
 <br/>
