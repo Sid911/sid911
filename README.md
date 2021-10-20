@@ -64,7 +64,7 @@ ________________________________________________________________________________
 
 - <div> 
   <img align="right" width=100 src ="https://user-images.githubusercontent.com/27860105/134005079-dfe6a614-49a7-4b32-9169-f3e187428416.png"/>
-  I am also working on an application called <strong>Summarize</strong> (Name explains what it does probably well) 
+  I am also working on an application called <a href="https://summarize.dev/"><strong>Summarize</strong></a> (Name explains what it does probably well) 
   </div>
  
 - Building a x16 bit CPU emulation *(kinda stale atm)*
