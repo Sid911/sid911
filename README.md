@@ -22,6 +22,7 @@ All these (kinda short 🐼 and lazy) years, I have used many different language
 [<img align="left" alt="Nvidia Cuda" width="60" src="SVG/Nvidia%20Cuda.svg" />][Cuda]
 [<img align="left" alt="Nvidia Cuda" height="50" src="SVG/Directx.svg" />][directx]
 [<img align="top" alt="C++" width="50px" src="SVG/Cpp.svg" />][cplusplus]
+
 [<img align="left" alt="React.js" width="50px" src="SVG/React.svg" />][react]
 [<img align="left" alt="HTML5" width="50x" src="SVG/HTML5.svg" />][html5]
 [<img align="left" alt="CSS3" width="50px" src="SVG/CSS.svg" />][css]
