@@ -20,33 +20,23 @@ All these (kinda short 🐼 and lazy) years, I have used many different language
 <br/>
 
 [<img align="left" alt="Nvidia Cuda" width="60" src="SVG/Nvidia%20Cuda.svg" />][Cuda]
-
-[<img align="left" alt="C++" width="50px" src="SVG/Cpp.svg" />][cplusplus]
-
-[<img align="left" alt="Python" width="50px" src="SVG/Python.svg" />][python]
-
+[<img align="left" alt="Nvidia Cuda" height="50" src="SVG/Directx.svg" />][directx]
+[<img align="top" alt="C++" width="50px" src="SVG/Cpp.svg" />][cplusplus]
 [<img align="left" alt="React.js" width="50px" src="SVG/React.svg" />][react]
-
 [<img align="left" alt="HTML5" width="50x" src="SVG/HTML5.svg" />][html5]
-
 [<img align="left" alt="CSS3" width="50px" src="SVG/CSS.svg" />][css]
-
 [<img align="left" alt="Sass" width="50px" src="SVG/SASS.svg" />][scss]
-
 [<img align="left" alt="JavaScript" height="50px" src="SVG/JavaScript.svg" />][js]
-
 [<img align="left" alt="TypeScript" height="50px" src="SVG/TypeScript.svg" />][ts]
-
 [<img align="left" alt="Firebase" width="50px" src="SVG/Firebase.svg" />][firebase]
-
+[<img align="left" alt="Python" width="50px" src="SVG/Python.svg" />][python]
 [<img align="left" alt="Tensorflow" width="50px" src="SVG/Tensorflow.svg" />][tensorflow]
-
 [<img align="left" alt="Flutter" width="50px" src="SVG/Flutter.svg" />][flutter]
 
 <br/>
 <br/>
 <br/>
-<br/>
+
 <br/>
 
 
@@ -59,13 +49,11 @@ All these (kinda short 🐼 and lazy) years, I have used many different language
 <br/>
 
 [<img align="left" alt="Google Cloud" width="40px" src="SVG/GCP.svg" />][gcloud]
-[<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node.js]
+[<img align="left" alt="Node.js" height="40px" src="SVG/Nodejs.svg" />][node.js]
 [<img align="left" alt="CSharp" width="40px" src="SVG/CSharp.svg" />][csharp]
-[<img align="left" alt="Rust" width="40px" src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-128x128.png" />][rust]
+[<img align="left" alt="Rust" width="40px" src="SVG/Rust.svg" />][rust]
+[<img align="left" alt="Rust" width="40px" src="SVG/raylib.svg" />][rust]
 
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
@@ -75,23 +63,18 @@ All these (kinda short 🐼 and lazy) years, I have used many different language
 
 > I am not including git and related stuff 😉 obviously
 
+<br/>
+<br/>
+<br/>
+
 [<img align="left" alt="Android Studio" width="50px" src="SVG/Android%20Studio.svg" />][androidstudio]
-
 [<img align="left" alt="Visual Studio" width="50px" src="SVG/Visual%20Studio.svg" />][visualstudio]
-
 [<img align="left" alt="Visual Studio Code" width="50px" src="SVG/Visual%20Studio%20Code.svg" />][vscode]
-
 [<img align="left" alt="Pycharm" width="50px" src="SVG/Intelij%20Idea.svg" />][pycharm]
-
 [<img align="left" alt="Pycharm" width="50px" src="SVG/Pycharm.svg" />][pycharm]
-
 [<img align="left" alt="Cmake" width="50px" src="SVG/CMake.svg"/>][cmake]
-
-
 [<img align="left" alt="Figma" height="50px" src="SVG/Figma.svg" />][figma]
-
 [<img align="left" alt="Blender" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/939px-Blender_logo_no_text.svg.png" />][blender]
-
 [<img align="left" alt="Adobe Creative Cloud" width="50px" src="SVG/Adobe%20Creative%20Cloud.svg" />][adobe]
 
 <br/>
@@ -132,6 +115,7 @@ Oh yeah anime! How dare I forget that.
 
 [Cuda]: https://docs.nvidia.com/cuda/
 [cplusplus]: https://docs.microsoft.com/en-us/cpp/?view=msvc-160
+[directx]: https://docs.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-graphics
 [python]: https://www.python.org/
 [react]: https://reactjs.org/
 [html5]: https://html.com/html5/
