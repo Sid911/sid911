@@ -19,8 +19,7 @@ All these (kinda short 🐼 and lazy) years, I have used many different language
 <br/>
 <br/>
 
-[<img align="left" alt="Nvidia Cuda" width="60" src="SVG/Nvidia%20Cuda.svg" />][Cuda]
-[<img align="left" alt="Nvidia Cuda" height="50" src="SVG/Directx.svg" />][directx]
+[<img align="left" alt="Directx" height="50" src="SVG/Directx.svg" />][directx]
 [<img align="top" alt="C++" width="50px" src="SVG/Cpp.svg" />][cplusplus]
 
 [<img align="left" alt="React.js" width="50px" src="SVG/React.svg" />][react]
@@ -49,6 +48,7 @@ All these (kinda short 🐼 and lazy) years, I have used many different language
 <br/>
 <br/>
 
+[<img align="left" alt="Nvidia Cuda" width="40x" src="SVG/Nvidia%20Cuda.svg" />][Cuda]
 [<img align="left" alt="Google Cloud" width="40px" src="SVG/GCP.svg" />][gcloud]
 [<img align="left" alt="Node.js" height="40px" src="SVG/Nodejs.svg" />][node.js]
 [<img align="left" alt="CSharp" width="40px" src="SVG/CSharp.svg" />][csharp]
