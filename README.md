@@ -93,8 +93,7 @@ ________________________________________________________________________________
   I am also working on an application called <a href="https://summarize.dev/"><strong>Summarize</strong></a> (Name explains what it does probably well) 
   </div>
  
-- Building a x16 bit CPU emulation *(kinda stale atm)*
-- Fighting for college ! 👊🏻
+- Learning more about cross platform rendering.
 
 #### 💬 Ask me about
  Space, Science, Physics, little bit of CS obviously. 
