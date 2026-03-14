@@ -1,4 +1,4 @@
-## Hello there Fellow Panda! 
+## Hello there Fellow Stranger! 
 *Who stumbled upon my measly profile* 👋 
 <br/>
 
