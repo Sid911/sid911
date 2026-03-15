@@ -1,3 +1,9 @@
+## Update
+> [!IMPORTANT]
+> Username has been changed to scixor
+
+<hr>
+
 ## Hello there Fellow Stranger! 
 *Who stumbled upon my measly profile* 👋 
 <br/>
